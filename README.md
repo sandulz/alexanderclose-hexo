@@ -6,17 +6,9 @@ Create a New Post:
 
     $ hexo new "Post Title"
 
-Run Server:
+Run Local Server:
 
     $ hexo server
-
-Generate Static Files:
-
-    $ hexo generate
-
-Deploy to Remote Sites:
-
-    $ hexo deploy
 
 Generate and Deploy:
 

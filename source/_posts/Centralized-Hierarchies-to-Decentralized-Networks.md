@@ -2,7 +2,7 @@ title: Centralized Hierarchies to Decentralized Networks
 date: 2012-02-20 19:21:05
 tags:
 ---
-As a society, we are undergoing one of the most significant macro-level shifts in our lifetimes; the shift from centralized hierarchies to decentralized networks. We're just starting to see how this affects governments, cultures, industries, and individuals. Whether you are building a tech startup or whether you are opening a coffee shop, it's imperative that you understand not just the Internet, but the mechanics and implications of networks. They will inform just about anything you create.
+As a society, we are undergoing one of the most significant macro-level shifts in our lifetimes; the shift from centralized hierarchies to decentralized networks.<!-- more --> We're just starting to see how this affects governments, cultures, industries, and individuals. Whether you are building a tech startup or whether you are opening a coffee shop, it's imperative that you understand not just the Internet, but the mechanics and implications of networks. They will inform just about anything you create.
 
 - <a href="http://garychou.com/" target="_blank">Gary Chou</a> | <a href="http://www.christinacacioppo.com/" target="_blank">Christina Cacioppo</a> | <a href="http://usv.com/" target="_blank">Union Square Ventures</a> |<a href="http://interactiondesign.sva.edu/classes/spring12/entrepreneurial-design/" target="_blank">Entrepreneurial Design at SVA</a>
 

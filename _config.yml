@@ -7,7 +7,7 @@ title: Alexander Close
 subtitle:
 description:
 author: Alexander Close
-language:
+language: en
 timezone:
 
 # URL
@@ -63,7 +63,13 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape
+theme: tranquilpeak
+
+# RSS Feed
+feed:
+    type: atom
+    path: atom.xml
+    limit: 20
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html

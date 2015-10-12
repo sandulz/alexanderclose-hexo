@@ -3,6 +3,7 @@ date: 2012-03-13 19:40:53
 tags:
 ---
 Engineers rule the world. While business professionals, lawyers, and doctors all scale the ranks of a cultural hierarchy, they're all subservient to the control of an engineer. Why? Because the very ladder they are all climbing was designed and built by an engineer.
+<!-- more -->
 
 While the word "engineer" brings visions of computer scientists and bridge builders to the minds of most, the truth is that engineers are found in all shapes and sizes throughout a variety of professions. They are a professional practitioner concerned with applying scientific knowledge, mathematics and ingenuity to develop solutions for technical problems. The word is derived from the Latin roots <em>ingeniare</em> "to contrive, devise" and <em>ingenium</em> "cleverness". Truth is, it's anyone who identifies a problem and uses their skills and ingenuity to build the solution. Boiled down, it sounds vaguely familiar to a certain buzzword these days. "Entrepreneur". Todays adoption of the <a href="http://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898?tag=duckduckgo-d-20" target="_blank">lean startup</a> methodology is bringing the two professions even closer. The smartest run startups of the current day operate like the pursuit of scientific knowledge through the scientific method - complete with experiments, control groups and theory tests.
 
