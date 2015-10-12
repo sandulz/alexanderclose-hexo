@@ -62,26 +62,14 @@ sidebar:
         #     url: /#about
         #     icon: question
     author_links:
-        github:
-            title: global.github
-            url: https://github.com/sandulz
-            icon: github
-        # stack_overflow:
-        #     title: global.stack_overflow
-        #     url: http://stackoverflow.com/users
-        #     icon: stack-overflow
         twitter:
             title: global.twitter
             url: https://twitter.com/sandulz
             icon: twitter
-        # facebook:
-        #     title: global.facebook
-        #     url: https://facebook.com/
-        #     icon: facebook
-        # google_plus:
-        #     title: global.google_plus
-        #     url: https://plus.google.com/
-        #     icon: google-plus
+        github:
+            title: global.github
+            url: https://github.com/sandulz
+            icon: github
         linked_in:
             title: global.linkedin
             url: https://www.linkedin.com/profile/
@@ -90,15 +78,29 @@ sidebar:
             title: Tumblr
             url: https://alexander.close.tumblr.com/
             icon: tumblr
-        mail:
+        # stack_overflow:
+        #     title: global.stack_overflow
+        #     url: http://stackoverflow.com/users
+        #     icon: stack-overflow
+        # facebook:
+        #     title: global.facebook
+        #     url: https://facebook.com/
+        #     icon: facebook
+        # google_plus:
+        #     title: global.google_plus
+        #     url: https://plus.google.com/
+        #     icon: google-plus
+
+    mail:
+          mail:
             title: global.mail
             url: mailto:email+blog@alexanderclose.com
             icon: envelope-o
-    rss:
-        rss:
-            title: global.rss
-            url: /atom.xml
-            icon: rss
+    # rss:
+    #     rss:
+    #         title: global.rss
+    #         url: /atom.xml
+    #         icon: rss
 
 
 # Header configuration
