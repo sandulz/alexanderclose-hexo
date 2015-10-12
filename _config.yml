@@ -78,5 +78,5 @@ deploy:
 # Hexo-deployer-heroku plugin settings, deploy to Heroku.
 deploy:
   type: heroku
-  repo: git@heroku.com:alexanderclose-hexo.git
+  repo: git@heroku.alexanderclose:alexanderclose-hexo.git
   message: Update site
