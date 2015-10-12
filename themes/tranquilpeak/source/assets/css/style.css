@@ -3830,12 +3830,7 @@ a.fancybox {
     color: #5d686f;
     margin-top: 60px;
     font-weight: 300;
-    overflow: hidden;
-    word-break: break-word;
-    -ms moz-word-break: break-all;
-    word-break: break-all;
-    -webkit moz-hypens: auto;
-    hypens: auto; }
+    overflow: hidden; }
     .post .post-content img {
       display: block;
       width: auto;
@@ -4061,12 +4056,7 @@ a.fancybox {
     font-family: "Merriweather", serif;
     color: #5d686f;
     font-weight: 300;
-    overflow: hidden;
-    word-break: break-word;
-    -ms moz-word-break: break-all;
-    word-break: break-all;
-    -webkit moz-hypens: auto;
-    hypens: auto; }
+    overflow: hidden; }
     .postShorten .postShorten-excerpt img,
     .postShorten .postShorten-content img {
       display: block;
