@@ -72,8 +72,8 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/sandulz/alexanderclose-hexo.git
-  branch: master
-  message: Update site
+  branch: [branch]
+  message: [message]
 
 # Hexo-deployer-heroku plugin settings, deploy to Heroku.
 deploy:
