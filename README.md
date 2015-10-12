@@ -1,17 +1,23 @@
-##Publishing to AlexanderClose.com
+# Publishing to AlexanderClose.com
 
+## Hexo Cheat Sheet
 
-Hexo Cheat Sheet
+Create a New Post:
 
-Create a New Post
-$ hexo new "Post Title"
+    $ hexo new "Post Title"
 
-Run Server
-$ hexo server
+Run Server:
+  
+    $ hexo server
 
-Generate Static Files
-$ hexo generate
+Generate Static Files:
+  
+    $ hexo generate
 
-Deploy to Remote Sites
-$ hexo deploy
+Deploy to Remote Sites:
+  
+    $ hexo deploy
 
+Generate and Deploy:
+  
+    $ hexo generate --deploy
