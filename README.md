@@ -19,3 +19,11 @@ Generate and Deploy:
 Clean the cache file (db.json) and generate files (public).
 
     $ hexo clean
+
+## This app is running on Heroku Pipelines
+
+Staging
+alexanderclose-hexo-staging
+
+Production
+alexanderclose-hexo-production
