@@ -1,10 +1,12 @@
-# Publishing to AlexanderClose.com
+# AlexanderClose.com
 
-## Hexo Cheat Sheet
+## AlexanderClose.com is running on the Hexo.io blogging framework.
 
-Create a New Post:
+### Hexo Commands Cheat Sheet
 
-    $ hexo new "Post Title"
+To create a New Post: (Put post title into quotes when using spaces. Post is the default [layout], can omit).
+
+    $ hexo new <"Post Title">
 
 Run Local Server:
 
@@ -13,3 +15,7 @@ Run Local Server:
 Generate and Deploy:
 
     $ hexo generate --deploy
+
+Clean the cache file (db.json) and generate files (public).
+
+    $ hexo clean
