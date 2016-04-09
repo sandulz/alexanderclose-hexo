@@ -80,9 +80,3 @@ deploy:
   repo: https://github.com/sandulz/alexanderclose-hexo.git
   branch: [branch]
   message: [message]
-
-# Hexo-deployer-heroku plugin settings, deploy to Heroku.
-deploy:
-  type: heroku
-  repo: git@heroku.alexanderclose:alexanderclose-hexo.git
-  message: Update site
