@@ -64,7 +64,7 @@ sidebar:
     author_links:
         twitter:
             title: global.twitter
-            url: https://twitter.com/sandulz
+            url: https://twitter.com/alexanderclose
             icon: twitter
         github:
             title: global.github
@@ -76,7 +76,7 @@ sidebar:
             icon: linkedin
         tumblr:
             title: Tumblr
-            url: https://alexander.close.tumblr.com/
+            url: https://alexanderclose.tumblr.com/
             icon: tumblr
         # stack_overflow:
         #     title: global.stack_overflow
@@ -130,7 +130,7 @@ author:
     # Overwritten by your gravatar image if `gravatar_email` is filled
     picture:
     # Your Twitter username without the @. E.g : `tranquilpeak`
-    twitter: sandulz
+    twitter: alexanderclose
     # Your google plus profile id. E.g : `+Tranquilpeak` or `123812884128439`
     google_plus:
 
