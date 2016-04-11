@@ -22,3 +22,4 @@ build
 
 # Hexo
 public/
+db.json
